@@ -57,5 +57,3 @@ java Project.Main
 ### 3) ทดสอบ Input ตัวอย่าง
 - Input ตัวเลข เช่น 10 3 5 2 1
 - เลือกอัลกอริทึม: Bubble และ Quick
-
-![Team workflow](workflow.png)
